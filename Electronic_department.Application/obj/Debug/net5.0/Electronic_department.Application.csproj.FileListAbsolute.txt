@@ -1,0 +1,5 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Notes-main\Notes-main\Notes.Backend\Electronic_department.Application\obj\Debug\net5.0\Electronic_department.Application.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Notes-main\Notes-main\Notes.Backend\Electronic_department.Application\obj\Debug\net5.0\Electronic_department.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\Notes-main\Notes-main\Notes.Backend\Electronic_department.Application\obj\Debug\net5.0\Electronic_department.Application.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Notes-main\Notes-main\Notes.Backend\Electronic_department.Application\obj\Debug\net5.0\Electronic_department.Application.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\Notes-main\Notes-main\Notes.Backend\Electronic_department.Application\obj\Debug\net5.0\Electronic_department.Application.csproj.CoreCompileInputs.cache
